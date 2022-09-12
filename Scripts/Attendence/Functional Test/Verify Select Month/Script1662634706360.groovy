@@ -16,7 +16,8 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-// hello 
+
+
 // Pre-Cond itions
 WebUI.callTestCase(findTestCase('Test Cases/Login/Login_ssi360/Login SSI360'), [:], FailureHandling.STOP_ON_FAILURE)
 

@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "F2F49EBA99546A83DA91B9F279D88BAD",
+  "keywordFileContentHash": "AD492002F16F85AB6FA9CED46C9F5235",
   "keywordClasses": [
     {
       "name": "CustomKeywords",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }
