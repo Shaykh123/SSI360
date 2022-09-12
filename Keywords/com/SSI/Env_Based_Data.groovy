@@ -40,11 +40,11 @@ import com.kms.katalon.core.webui.exception.WebElementNotFoundException
 
 
 
-	
+
 
 
 def static "com.SSI.CustomFunctions.ClickbyText"(
-	Object text	) {
-(new com.SSI.CustomFunctions()).ClickbyText(
-		text)
+		Object text	) {
+	(new com.SSI.CustomFunctions()).ClickbyText(
+			text)
 }

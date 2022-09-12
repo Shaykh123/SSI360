@@ -109,5 +109,5 @@ else if(Option == 'Nov') {
 else if(Option == 'Dec') {
 	//WebUI.click(findTestObject(Dec), FailureHandling.STOP_ON_FAILURE)
 	WebUI.callTestCase(findTestCase('Test Cases/Core/Helpers/Click by Text'),
-		[('Text'):'dec'],FailureHandling.STOP_ON_FAILURE)
+		[('Text'):'Dec'],FailureHandling.STOP_ON_FAILURE)
 }
