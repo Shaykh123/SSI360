@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select Month</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d48d297e-4e8c-4895-b52e-d64337be5151</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1b28555d-dce8-42a1-8a40-67ee7e5a8386</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1b28555d-dce8-42a1-8a40-67ee7e5a8386</id>
+      <masked>false</masked>
+      <name>Option</name>
+   </variable>
+</TestCaseEntity>

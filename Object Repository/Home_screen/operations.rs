@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>operations</name>
+   <tag></tag>
+   <elementGuidId>74262728-b317-4e53-8a1c-6e98416cb4c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slidemenu']/ul/li[2]/a/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon.icon-operations</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;slidemenu&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;root-menu has-drop active&quot;]/a[@class=&quot;top-menu-icon&quot;]/span[@class=&quot;icon-holder&quot;]/span[@class=&quot;icon icon-operations&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fabe7b54-cb60-458b-be7f-9e744319e111</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-operations</value>
+      <webElementGuid>6616044d-a2af-467f-8bf0-e80c1db54996</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slidemenu&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;root-menu has-drop active&quot;]/a[@class=&quot;top-menu-icon&quot;]/span[@class=&quot;icon-holder&quot;]/span[@class=&quot;icon icon-operations&quot;]</value>
+      <webElementGuid>33c4f02c-6782-438f-8cd2-68994159c810</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slidemenu']/ul/li[2]/a/span/span</value>
+      <webElementGuid>f2adee04-5e1b-47bd-a6ae-3e7f9d86f255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]/a/span/span</value>
+      <webElementGuid>e20bbdf0-d57f-462c-ad22-d7b06319f8e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

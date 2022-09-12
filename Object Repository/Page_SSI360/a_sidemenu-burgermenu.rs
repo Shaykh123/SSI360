@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_sidemenu-burgermenu</name>
+   <tag></tag>
+   <elementGuidId>574d134e-395a-43ad-a8a1-49b8f89ab3b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.icon.icon-burgermenu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(@href, '#')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>313d4f23-f44f-4ca0-84a0-7536bce65657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-burgermenu</value>
+      <webElementGuid>c72991f3-2540-4899-b1f0-985392c2a2e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>2ca4a2ef-9107-467b-aaa8-f2541e73af30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;@*@currentActiveAreaClass*@&quot;]/div[@class=&quot;wrapper&quot;]/div[1]/div[@class=&quot;menu-header header&quot;]/div[@class=&quot;top-header-fixed&quot;]/div[@class=&quot;right-menu&quot;]/div[@class=&quot;top-nav&quot;]/ul[1]/li[1]/a[@class=&quot;icon icon-burgermenu&quot;]</value>
+      <webElementGuid>77decce9-a848-44e1-b1d5-e6f49d6e19f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#')]</value>
+      <webElementGuid>658ceebf-28cd-4dfa-a2d4-bda29fc03874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>ed55bc8f-b534-4031-b5be-7b3c91046a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#']</value>
+      <webElementGuid>a9890d08-41b0-41a1-a9b8-d9bf235219b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

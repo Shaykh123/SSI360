@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>c0c5a29d-e4c5-47b7-91c9-00d92d0b109a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout']/div/div/div/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = '/Content/images/logo.svg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>bfd863a7-5618-4c98-b273-269170fad974</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/Content/images/logo.svg</value>
+      <webElementGuid>f65e2e62-a253-4e21-b3d8-ffca9b7d2434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout&quot;)/div[@class=&quot;container page-{page}&quot;]/div[@class=&quot;ssi_loginMain col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;ssi_login&quot;]/div[@class=&quot;ssi_loginScreenMain&quot;]/div[@class=&quot;header col-lg-12 col-md-12&quot;]/div[@class=&quot;logo&quot;]/img[1]</value>
+      <webElementGuid>f8ae49aa-0a76-4ae2-8202-977ac8e406fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout']/div/div/div/div/div/div/img</value>
+      <webElementGuid>1659cd3c-952a-4730-90a0-5bd3281b10be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>e6870bb8-d719-4b41-b401-1f2cfc697617</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/Content/images/logo.svg']</value>
+      <webElementGuid>b42a5071-aacf-476d-be9d-d8f52a0b12ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click by Text</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>79174cde-a5a3-4b59-855d-0100b73b8935</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aa718675-a0a0-4aea-866f-277d9dc42a13</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aa718675-a0a0-4aea-866f-277d9dc42a13</id>
+      <masked>false</masked>
+      <name>Text</name>
+   </variable>
+</TestCaseEntity>

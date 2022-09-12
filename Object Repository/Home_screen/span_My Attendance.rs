@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_My Attendance</name>
+   <tag></tag>
+   <elementGuidId>dcdcff7b-4bda-41dc-a70c-ae5ecf7dee35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slidemenu']/ul/li[2]/div/ul/li[2]/div/ul/li/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ff768b90-ed32-4aa2-8a75-c4247cef5273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>71e2fc96-d2ee-440e-89c0-a2dc03c11562</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Attendance</value>
+      <webElementGuid>82a3389a-a01f-4e55-b5d4-d42a00a7a954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slidemenu&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;root-menu has-drop active&quot;]/div[@class=&quot;submenu&quot;]/ul[@class=&quot;ul-first-child&quot;]/li[@class=&quot;column-view active&quot;]/div[@class=&quot;sub-submenu&quot;]/ul[1]/li[1]/a[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>603e835b-6aba-4bc2-911d-b67959047daa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slidemenu']/ul/li[2]/div/ul/li[2]/div/ul/li/a/span</value>
+      <webElementGuid>9e694b79-a7b5-4085-b19f-74d2f3ad75e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attendance'])[1]/following::span[1]</value>
+      <webElementGuid>11bf7845-35ac-4152-9cc4-b5b2d68b4820</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Travels'])[1]/following::span[4]</value>
+      <webElementGuid>be8dda8d-e437-458d-ad23-759d23465d22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Evaluations'])[1]/preceding::span[3]</value>
+      <webElementGuid>f96d87d0-fed8-4851-8440-6f7b0cb47b8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Evaluations'])[2]/preceding::span[4]</value>
+      <webElementGuid>8b4b5aee-41f1-4a6b-9fcb-9f59135d3ad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/ul/li[2]/div/ul/li/a/span</value>
+      <webElementGuid>d8adc0b3-713f-48c9-ae0f-e2056e45e50e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'My Attendance' or . = 'My Attendance')]</value>
+      <webElementGuid>a96260ef-baed-46f9-a202-80f45f65b827</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
