@@ -4,17 +4,17 @@
    <name>Select Month</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>d48d297e-4e8c-4895-b52e-d64337be5151</testCaseGuid>
+   <testCaseGuid>62cb9298-4116-444c-bf89-19aae321316b</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>1b28555d-dce8-42a1-8a40-67ee7e5a8386</variableId>
+      <variableId>79d16dfa-b210-4d9f-b435-f2ad4571a0ab</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>1b28555d-dce8-42a1-8a40-67ee7e5a8386</id>
+      <id>79d16dfa-b210-4d9f-b435-f2ad4571a0ab</id>
       <masked>false</masked>
       <name>Option</name>
    </variable>

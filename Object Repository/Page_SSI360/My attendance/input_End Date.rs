@@ -3,11 +3,8 @@
    <description></description>
    <name>input_End Date</name>
    <tag></tag>
-   <elementGuidId>48cc1a75-39a1-4ab8-ac43-20d800ee9eb5</elementGuidId>
+   <elementGuidId>d8cc88b3-af69-4630-b725-bce4ad047790</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='myTimeLogFilter']/div[2]/label</value>
@@ -15,6 +12,9 @@
       <entry>
          <key>BASIC</key>
          <value>//*[(text() = 'End Date' or . = 'End Date')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -25,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>7c450e7e-6cf6-465a-82d9-a580f218abef</webElementGuid>
+      <webElementGuid>0409ab52-ea33-47d4-bfcd-a5fa0c01f5ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,7 +33,7 @@
       <name>class</name>
       <type>Main</type>
       <value>control-label</value>
-      <webElementGuid>f435fba4-d440-40ef-a95a-18ca43cc6fd5</webElementGuid>
+      <webElementGuid>19038f3a-9e03-42c1-a2d2-16774327cfef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>text</name>
       <type>Main</type>
       <value>End_Date</value>
-      <webElementGuid>0d142c24-ccd4-4f24-b081-bfb199192484</webElementGuid>
+      <webElementGuid>828f60a7-c0a2-4a78-ac54-771c202ea1b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;myTimeLogFilter&quot;)/div[@class=&quot;col-lg-6 col-md-12 col-sm-12 col-xs-12 form-group&quot;]/label[@class=&quot;control-label&quot;]</value>
-      <webElementGuid>543ec735-2fbb-496f-9c43-40a68462f291</webElementGuid>
+      <webElementGuid>90e15ff8-ecb9-4068-ad4d-bea236853e55</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='myTimeLogFilter']/div[2]/label</value>
-      <webElementGuid>f6e2ae96-5807-4ec7-b72e-1039ae452d5f</webElementGuid>
+      <webElementGuid>3c63b031-01fd-4693-9ee1-90fe409e06c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[2]/following::label[1]</value>
-      <webElementGuid>dba9fc00-86f8-464a-bf6a-1bd7ee5b0626</webElementGuid>
+      <webElementGuid>a7487366-2928-4dd9-9d2f-0c33e806ffdb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/following::label[1]</value>
-      <webElementGuid>f7563eba-8ed3-45bc-8c5f-a8635086608a</webElementGuid>
+      <webElementGuid>1cbb5904-e1f8-47da-9bcd-c5b70a36ab95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[3]/preceding::label[1]</value>
-      <webElementGuid>0ed46271-8da9-491b-99ea-a9518e9dd080</webElementGuid>
+      <webElementGuid>838693ba-e4a6-440c-ab02-2c1cedc70b34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Type'])[1]/preceding::label[1]</value>
-      <webElementGuid>24ae2aac-ec15-4138-9360-3bed19fe7d39</webElementGuid>
+      <webElementGuid>bd428a6d-b940-4712-b7be-68468fd027dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='End Date']/parent::*</value>
-      <webElementGuid>5488572a-384b-4ae8-949e-394a1c628e71</webElementGuid>
+      <webElementGuid>f3eb9455-52d0-4b27-a9e5-ec73a7c5d532</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/label</value>
-      <webElementGuid>7be8d2ae-1ccb-4d99-b4a5-768ef991c942</webElementGuid>
+      <webElementGuid>fd48c302-d2c6-44d8-9b7f-28e6ece9dbf4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,6 +113,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'End Date' or . = 'End Date')]</value>
-      <webElementGuid>b542eb46-fd51-453d-8c35-cdf3b855f930</webElementGuid>
+      <webElementGuid>2648e4e9-628d-4edc-ae6f-b95322fb0fb2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

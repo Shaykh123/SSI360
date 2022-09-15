@@ -3,15 +3,15 @@
    <description></description>
    <name>a_sidemenu-burgermenu</name>
    <tag></tag>
-   <elementGuidId>574d134e-395a-43ad-a8a1-49b8f89ab3b2</elementGuidId>
+   <elementGuidId>1fad16d4-b16e-405d-8d5e-a70a1288c4e4</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>a.icon.icon-burgermenu</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//a[contains(@href, '#')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.icon.icon-burgermenu</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>313d4f23-f44f-4ca0-84a0-7536bce65657</webElementGuid>
+      <webElementGuid>7581a82a-cfe8-438a-98b8-7469ae96ba3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>icon icon-burgermenu</value>
-      <webElementGuid>c72991f3-2540-4899-b1f0-985392c2a2e7</webElementGuid>
+      <webElementGuid>1787f273-d65b-4883-bf48-871d63653d5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>2ca4a2ef-9107-467b-aaa8-f2541e73af30</webElementGuid>
+      <webElementGuid>139682f7-8b5a-4a2b-a8c0-63f373c8e237</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;@*@currentActiveAreaClass*@&quot;]/div[@class=&quot;wrapper&quot;]/div[1]/div[@class=&quot;menu-header header&quot;]/div[@class=&quot;top-header-fixed&quot;]/div[@class=&quot;right-menu&quot;]/div[@class=&quot;top-nav&quot;]/ul[1]/li[1]/a[@class=&quot;icon icon-burgermenu&quot;]</value>
-      <webElementGuid>77decce9-a848-44e1-b1d5-e6f49d6e19f2</webElementGuid>
+      <webElementGuid>bbba52e2-152b-4590-ab94-24860040651e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#')]</value>
-      <webElementGuid>658ceebf-28cd-4dfa-a2d4-bda29fc03874</webElementGuid>
+      <webElementGuid>053acafc-37c3-425b-a0b1-049908f154c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a</value>
-      <webElementGuid>ed55bc8f-b534-4031-b5be-7b3c91046a4f</webElementGuid>
+      <webElementGuid>d2d2dc7c-5d25-4bec-8305-3365d2af0203</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#']</value>
-      <webElementGuid>a9890d08-41b0-41a1-a9b8-d9bf235219b2</webElementGuid>
+      <webElementGuid>0f831870-a77a-4cae-9066-a98cd9fe8592</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

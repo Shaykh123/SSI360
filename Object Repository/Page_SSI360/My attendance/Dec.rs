@@ -3,11 +3,11 @@
    <description></description>
    <name>Dec</name>
    <tag></tag>
-   <elementGuidId>2c575946-3aaa-4b1b-8b5a-1bc0f7488825</elementGuidId>
+   <elementGuidId>38e33526-b45e-4d7f-ab89-822a9119ba7e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>Dec</value>
+         <value>//*[@id=&quot;ui-datepicker-div&quot;]/div/div/select[1]/option[12]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>d18c196c-eca1-4c15-ba1d-b43b8bd7c832</webElementGuid>
+      <webElementGuid>bb38609f-a3c9-466a-bacd-f3282310d198</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-datepicker-month</value>
-      <webElementGuid>3520cbff-c8cf-4c8c-89e1-c345406853e9</webElementGuid>
+      <webElementGuid>7b0752b0-9023-4645-ab6a-bba09b42e8cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-handler</name>
       <type>Main</type>
       <value>selectMonth</value>
-      <webElementGuid>7328a356-1715-49b0-8fc4-a21b8f95788c</webElementGuid>
+      <webElementGuid>64627739-2a0a-4c1d-b30c-3278604dbc4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-event</name>
       <type>Main</type>
       <value>change</value>
-      <webElementGuid>180dd467-e8b1-412f-b1ec-ae8810ec667a</webElementGuid>
+      <webElementGuid>a2845066-a74c-425f-8855-e583b339c1bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>JanFebMarAprMayJunJulAugSepOctNovDec</value>
-      <webElementGuid>74a9ab2b-524b-483f-b0fc-d55a8d215d4f</webElementGuid>
+      <webElementGuid>4efa9f37-edfa-4543-b9c2-cb040f478150</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ui-datepicker-div&quot;)/div[@class=&quot;ui-datepicker-header ui-widget-header ui-helper-clearfix ui-corner-all&quot;]/div[@class=&quot;ui-datepicker-title&quot;]/select[@class=&quot;ui-datepicker-month&quot;]</value>
-      <webElementGuid>8db5d64b-64f1-46ec-8c3e-30d4272ed966</webElementGuid>
+      <webElementGuid>a7d8b3b0-69cc-4880-951c-96f0405dff09</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ui-datepicker-div']/div/div/select</value>
-      <webElementGuid>659e945e-4c0e-4fb9-acf5-57da5fa8a0d6</webElementGuid>
+      <webElementGuid>01f9f57e-fa4f-43fb-9783-19c4746e9df0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[2]/following::select[1]</value>
-      <webElementGuid>3c2c0dfa-ed54-4634-acd2-4902fddac9ee</webElementGuid>
+      <webElementGuid>31e0f7c7-57e6-4342-8850-b950350f3800</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prev'])[2]/following::select[1]</value>
-      <webElementGuid>a288fcb3-9184-478f-8c1f-7e8b0ca1aee1</webElementGuid>
+      <webElementGuid>0e45fdca-9027-4e26-b20f-72cddb6c825d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/preceding::select[2]</value>
-      <webElementGuid>df88e5cc-b35c-456c-a566-be0299436d52</webElementGuid>
+      <webElementGuid>241e2637-c2e1-4537-9063-0831dfeeb375</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mo'])[1]/preceding::select[2]</value>
-      <webElementGuid>857ebcd7-165f-40f9-864a-7711ec33e193</webElementGuid>
+      <webElementGuid>4319b453-33f4-46b4-85d4-4501ca3b8098</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div/select</value>
-      <webElementGuid>9450df02-ecaf-49de-8542-9463fd9e2e2c</webElementGuid>
+      <webElementGuid>80d71fd7-48b0-4144-95ab-f8af14a74d52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[(text() = 'JanFebMarAprMayJunJulAugSepOctNovDec' or . = 'JanFebMarAprMayJunJulAugSepOctNovDec')]</value>
-      <webElementGuid>781d1bee-de78-4d09-b049-e9116fac45de</webElementGuid>
+      <webElementGuid>af1ac916-fceb-4fd7-a1bc-834a72cb3b92</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Search_filter</name>
    <tag></tag>
-   <elementGuidId>fe17bb32-862e-427d-b521-64aad729098a</elementGuidId>
+   <elementGuidId>acf73866-b45f-40f4-8ff1-7468539f9ca8</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#btnApplyAdvanceFilter</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//a[@id='btnApplyAdvanceFilter']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnApplyAdvanceFilter</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2446684a-3443-4c8b-960b-36eaf6a1dce0</webElementGuid>
+      <webElementGuid>a83ab2dd-46fd-4365-8a5f-ce5164c0a619</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>a1b8a368-1fe4-4e8e-9d34-fe1342bca393</webElementGuid>
+      <webElementGuid>2b1f70ce-51a8-4b69-a53d-f01c25974576</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btnApplyAdvanceFilter</value>
-      <webElementGuid>5541d877-29c9-4f3d-8b8b-4570ae88b088</webElementGuid>
+      <webElementGuid>0ef54367-a453-43f3-b381-2f5cf1b2613c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>primaryFilterAction</value>
-      <webElementGuid>814d0bef-f73f-48b5-b58a-79ebeb3c5af7</webElementGuid>
+      <webElementGuid>1b759c6c-48cd-49e4-9d00-2fdcfbe2c24d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Search</value>
-      <webElementGuid>19f8c4ff-9474-41a3-b9ff-624afe3dd641</webElementGuid>
+      <webElementGuid>09153c88-b6b1-4b2a-9f9c-201a03405811</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btnApplyAdvanceFilter&quot;)</value>
-      <webElementGuid>9299ea4f-49e1-4455-9e8c-e048d43cc092</webElementGuid>
+      <webElementGuid>77f4cb23-d8ba-4731-9766-1685ebc2eedf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='btnApplyAdvanceFilter']</value>
-      <webElementGuid>de5696c2-0315-4e9c-9693-8e2f805af957</webElementGuid>
+      <webElementGuid>c6ad8f27-bb46-49c2-b19d-14caee114de3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='advancefilterOverlay']/div[2]/div/ul/li[3]/a</value>
-      <webElementGuid>6d608736-0a45-41ed-be86-256a2593911c</webElementGuid>
+      <webElementGuid>0e08f446-8115-4438-be88-93ffd28cb05d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Search')])[2]</value>
-      <webElementGuid>036518ad-7397-4823-9090-3c31e2ed311d</webElementGuid>
+      <webElementGuid>90b14772-5e67-4119-80c0-c08962b8c4da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[5]/following::a[3]</value>
-      <webElementGuid>37aeb12c-59e3-43bd-81f6-0861df8da762</webElementGuid>
+      <webElementGuid>6c419982-ec5a-4433-bfa5-a87e4c9c622b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Status'])[1]/following::a[3]</value>
-      <webElementGuid>63979b87-ee3d-4c4a-b7dc-0300c6aa391e</webElementGuid>
+      <webElementGuid>d6604225-c851-461e-af08-465d10e28613</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Show'])[1]/preceding::a[2]</value>
-      <webElementGuid>40d72933-4e75-48a8-93fb-0461eaddedc1</webElementGuid>
+      <webElementGuid>d27e924b-afa8-408a-b328-a39ba77e429a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='records'])[1]/preceding::a[2]</value>
-      <webElementGuid>9f9f56fb-3266-4067-87b8-0c0908b89785</webElementGuid>
+      <webElementGuid>4cf0e9b8-f62c-4a3c-bf0e-5c34bde6520e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Search']/parent::*</value>
-      <webElementGuid>475be2d2-1c17-466b-b2b5-6e2135ebd452</webElementGuid>
+      <webElementGuid>2f9ded36-0a5f-4dd5-8a9d-fcc8bdffc087</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[19]</value>
-      <webElementGuid>25728a50-b175-4850-9563-ffc0b4a4c616</webElementGuid>
+      <webElementGuid>1f0d46fe-cd22-43f5-8d47-238110f1438a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/ul/li[3]/a</value>
-      <webElementGuid>6f2f9146-5e26-434d-a466-62a7c7f4e8a2</webElementGuid>
+      <webElementGuid>c30e825b-9be4-4333-932b-951df1594411</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +150,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and @id = 'btnApplyAdvanceFilter' and (text() = 'Search' or . = 'Search')]</value>
-      <webElementGuid>636049d5-5cd9-4ff6-933e-9a0639c22d2f</webElementGuid>
+      <webElementGuid>022fe6b3-5446-446d-8e39-007aed86bd8a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

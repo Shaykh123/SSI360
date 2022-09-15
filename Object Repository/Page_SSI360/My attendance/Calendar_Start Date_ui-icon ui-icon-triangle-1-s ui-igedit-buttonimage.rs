@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Calendar_Start Date_ui-icon ui-icon-triangle-1-s ui-igedit-buttonimage</name>
+   <tag></tag>
+   <elementGuidId>83260ddd-f7f6-4fe1-a436-77467c6c21e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='startDate_calendarButton']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-icon.ui-icon-triangle-1-s.ui-igedit-buttonimage</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>422491fa-321b-497f-bda5-a9f32c4c9087</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-icon ui-icon-triangle-1-s ui-igedit-buttonimage</value>
+      <webElementGuid>8f0fc6b6-11a5-474d-8e69-8b249bf2c9c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;startDate_calendarButton&quot;)/div[@class=&quot;ui-icon ui-icon-triangle-1-s ui-igedit-buttonimage&quot;]</value>
+      <webElementGuid>02c257a6-f5a4-4432-b811-de16a9499d78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='startDate_calendarButton']/div</value>
+      <webElementGuid>1d282630-2cee-41ef-8683-a8000d5a1bf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>69c9b6b2-094a-46b0-8e22-62ede13207ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

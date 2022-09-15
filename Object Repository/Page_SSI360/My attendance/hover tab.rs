@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>filter_button</name>
+   <name>hover tab</name>
    <tag></tag>
-   <elementGuidId>9d2a2bd4-1d3e-49a1-8f5c-e594c346a207</elementGuidId>
+   <elementGuidId>fe44bfbb-7410-46c9-b5de-3eaffe310a05</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='btnAdvanceFilter']/span</value>
+         <value>//div[@id='myTimeLogFilter']/div/div/div/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span.ssi-icon-moreArrow.icon-moreArrow</value>
+         <value>div.ui-igedit.ui-igedit-container.ui-widget.ui-corner-all.ui-state-default.ui-state-hover</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,71 +21,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>2544f23b-c901-466d-8d99-11e9841225bb</webElementGuid>
+      <value>div</value>
+      <webElementGuid>09371ab8-e3fc-4e19-a33b-817bbdd56ef5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ssi-icon-moreArrow icon-moreArrow</value>
-      <webElementGuid>3dabaa67-bc54-43ce-982b-4dd76eb07967</webElementGuid>
+      <value>ui-igedit ui-igedit-container ui-widget ui-corner-all ui-state-default ui-state-hover</value>
+      <webElementGuid>01c5b52d-7907-46e2-a26b-9bb4245d87e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;btnAdvanceFilter&quot;)/span[@class=&quot;ssi-icon-moreArrow icon-moreArrow&quot;]</value>
-      <webElementGuid>85a308ed-c853-468e-a126-702128ce4325</webElementGuid>
+      <value>id(&quot;myTimeLogFilter&quot;)/div[@class=&quot;col-lg-6 col-md-12 col-sm-12 col-xs-12 form-group&quot;]/div[1]/div[@class=&quot;ssi-time-picker&quot;]/div[@class=&quot;ui-igedit ui-igedit-container ui-widget ui-corner-all ui-state-default ui-state-hover&quot;]</value>
+      <webElementGuid>4aeb3dc9-ba35-488d-b5f9-39d39358bedf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//a[@id='btnAdvanceFilter']/span</value>
-      <webElementGuid>0e454bd4-4205-43b8-bc00-19f573d8e187</webElementGuid>
+      <value>//div[@id='myTimeLogFilter']/div/div/div/div</value>
+      <webElementGuid>05adbb40-d3f2-4117-9004-b3937966d0d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[1]/following::span[1]</value>
-      <webElementGuid>ed203417-3f62-4d56-a689-712802a8d51d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/following::div[3]</value>
+      <webElementGuid>9d6813b5-c226-4b76-a03b-85f678244be5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Attendance'])[3]/following::span[3]</value>
-      <webElementGuid>aa74eb2d-1c10-4f13-8d01-fdd329817354</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[1]/following::div[8]</value>
+      <webElementGuid>93c8c6eb-58d0-45d0-badb-83fcd31b80a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/preceding::span[1]</value>
-      <webElementGuid>1d62f525-c3aa-4aaf-bf32-7dd2aac5eb7b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[2]/preceding::div[4]</value>
+      <webElementGuid>55fe07c5-5c69-439f-85ab-c4b29bd89bc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[2]/preceding::span[1]</value>
-      <webElementGuid>3f600d40-f9c0-4097-ace0-cf86f1e8eece</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End Date'])[1]/preceding::div[6]</value>
+      <webElementGuid>e915fc03-dd68-42fb-846a-88ce625cd7ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div[2]/ul/li/a/span</value>
-      <webElementGuid>91e96744-ca8f-4a0d-accd-9c8eba7c3d21</webElementGuid>
+      <value>//li/div/div/div/div/div/div/div</value>
+      <webElementGuid>91aa156f-4069-41f3-bb7b-2ae3b0870c21</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

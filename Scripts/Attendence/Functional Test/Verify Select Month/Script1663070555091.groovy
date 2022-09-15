@@ -17,7 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-
 // Pre-Cond itions
 WebUI.callTestCase(findTestCase('Test Cases/Login/Login_ssi360/Login SSI360'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -27,9 +26,11 @@ WebUI.comment('Navigate to My Attendance')
 WebUI.callTestCase(findTestCase('Test Cases/Navigations/NT My Attendence listview'), [:], FailureHandling.STOP_ON_FAILURE)
 WebUI.enableSmartWait()
 
+//Verify My Attendence screen objects
 String Heading = 'Object Repository/Page_SSI360/My attendance/h1_My Attendance'
 String OpenSearchDetails = 'Object Repository/Page_SSI360/open_detail_search'
-String StartDateCalendar = 'Object Repository/Page_SSI360/My attendance/Start Date_startDate_calendarButton'
+String hoverCalendarTab = 'Object Repository/Page_SSI360/My attendance/hover tab'
+String StartDateCalendar = 'Object Repository/Page_SSI360/My attendance/div_Start Date_startDate_calendarButton'
 String Select_start_Month = 'Object Repository/Page_SSI360/My attendance/Month_select_JanFebMarAprMayJunJulAugSepOctNovDec'
 String Search_btn = 'Object Repository/Page_SSI360/My attendance/a_Search_filter'
 
@@ -42,6 +43,9 @@ WebUI.comment('Open Search Box to Enter dates')
 WebUI.click(findTestObject(OpenSearchDetails), FailureHandling.STOP_ON_FAILURE)
 
 
+WebUI.verifyElementClickable(findTestObject(hoverCalendarTab), FailureHandling.STOP_ON_FAILURE)
+
+
 WebUI.verifyElementClickable(findTestObject(StartDateCalendar), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject(StartDateCalendar), FailureHandling.STOP_ON_FAILURE)
@@ -52,10 +56,8 @@ WebUI.click(findTestObject(Select_start_Month), FailureHandling.STOP_ON_FAILURE)
 WebUI.enableSmartWait()
 
 
-CustomKeywords.'com.SSI.CustomFunctions.ClickbyText'()
-
 
 WebUI.comment('Verify Month is save and then verify its saved correctly')
-WebUI.callTestCase(findTestCase('Test Cases/Attendance/Lookups/Select Month'),
-	[('Option'):'Aug'],FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Test Cases/Attendence/Lookups/Select Month'),
+	[('Option'):'Apr'],FailureHandling.STOP_ON_FAILURE)
 

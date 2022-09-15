@@ -3,15 +3,15 @@
    <description></description>
    <name>img (1)</name>
    <tag></tag>
-   <elementGuidId>c667084b-0f1d-4d78-b736-f295bb3739a5</elementGuidId>
+   <elementGuidId>aacce408-8d32-4994-a427-75ad6da5a57c</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>img[alt=&quot;SSI 360&quot;]</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//img[@alt='SSI 360']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;SSI 360&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>23a16d20-96f8-4eef-b12c-3e15b52d7298</webElementGuid>
+      <webElementGuid>11bc2910-098e-4b12-b55d-66cc98e5a0ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/content/css/images/logo.svg</value>
-      <webElementGuid>2b2b9f86-7bd0-4f93-88fe-a076c9c998a9</webElementGuid>
+      <webElementGuid>464af101-97c2-4d9a-b4ed-db5228a4a146</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>SSI 360</value>
-      <webElementGuid>250c0a66-7a43-4992-b7f7-857db4f5d528</webElementGuid>
+      <webElementGuid>d54f85dd-5634-4f61-a108-5e6197d50f1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;@*@currentActiveAreaClass*@&quot;]/div[@class=&quot;wrapper&quot;]/div[1]/div[@class=&quot;menu-header header&quot;]/div[@class=&quot;top-header-fixed&quot;]/div[@class=&quot;right-menu&quot;]/div[@class=&quot;top-nav&quot;]/ul[1]/li[@class=&quot;logo-holder&quot;]/strong[@class=&quot;logo&quot;]/a[1]/img[1]</value>
-      <webElementGuid>887f3919-3ccf-48dd-b122-d8a794bb3123</webElementGuid>
+      <webElementGuid>5ea54641-0ec9-4661-9ac3-525842317c38</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='SSI 360']</value>
-      <webElementGuid>ed1c4e0c-a9b6-4fbf-8633-b7af33db45bf</webElementGuid>
+      <webElementGuid>d3e8e0e6-219c-41b0-ba51-56fcf3c9c2e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>5122fddd-7882-464a-b9e5-057da0d6f481</webElementGuid>
+      <webElementGuid>c2674857-9b5b-4fa9-a825-1df7f0489776</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '/content/css/images/logo.svg' and @alt = 'SSI 360']</value>
-      <webElementGuid>a29d2ff2-3589-4207-85f2-6e7282ddb1cf</webElementGuid>
+      <webElementGuid>a22cba81-553b-40c5-aabf-bfc569d1d7d4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

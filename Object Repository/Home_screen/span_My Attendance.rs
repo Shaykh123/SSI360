@@ -3,15 +3,14 @@
    <description></description>
    <name>span_My Attendance</name>
    <tag></tag>
-   <elementGuidId>dcdcff7b-4bda-41dc-a70c-ae5ecf7dee35</elementGuidId>
+   <elementGuidId>0c2d9344-e89f-46d1-9e00-4c75678fa97b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='slidemenu']/ul/li[2]/div/ul/li[2]/div/ul/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ff768b90-ed32-4aa2-8a75-c4247cef5273</webElementGuid>
+      <webElementGuid>0906c77c-ec42-4933-89dd-f167797102e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>71e2fc96-d2ee-440e-89c0-a2dc03c11562</webElementGuid>
+      <webElementGuid>4b02356e-d6c7-486d-86fd-7445fee05981</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>My Attendance</value>
-      <webElementGuid>82a3389a-a01f-4e55-b5d4-d42a00a7a954</webElementGuid>
+      <webElementGuid>518b461f-7f69-4423-a079-cec328540843</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;slidemenu&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;root-menu has-drop active&quot;]/div[@class=&quot;submenu&quot;]/ul[@class=&quot;ul-first-child&quot;]/li[@class=&quot;column-view active&quot;]/div[@class=&quot;sub-submenu&quot;]/ul[1]/li[1]/a[1]/span[@class=&quot;text&quot;]</value>
-      <webElementGuid>603e835b-6aba-4bc2-911d-b67959047daa</webElementGuid>
+      <webElementGuid>a05805e3-ca67-4905-a2a4-f6899aec4c34</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='slidemenu']/ul/li[2]/div/ul/li[2]/div/ul/li/a/span</value>
-      <webElementGuid>9e694b79-a7b5-4085-b19f-74d2f3ad75e1</webElementGuid>
+      <webElementGuid>dceacea7-a60b-4e9b-ace9-3a126cdea51d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Attendance'])[1]/following::span[1]</value>
-      <webElementGuid>11bf7845-35ac-4152-9cc4-b5b2d68b4820</webElementGuid>
+      <webElementGuid>c8058cc3-b954-4a38-88a0-9f2dfc1a453f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Travels'])[1]/following::span[4]</value>
-      <webElementGuid>be8dda8d-e437-458d-ad23-759d23465d22</webElementGuid>
+      <webElementGuid>15d61af2-9bd9-473b-975a-694e6241d3f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Evaluations'])[1]/preceding::span[3]</value>
-      <webElementGuid>f96d87d0-fed8-4851-8440-6f7b0cb47b8f</webElementGuid>
+      <webElementGuid>a3d6e5f3-01d9-4709-b9b3-bf7ae24adbfd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Evaluations'])[2]/preceding::span[4]</value>
-      <webElementGuid>8b4b5aee-41f1-4a6b-9fcb-9f59135d3ad9</webElementGuid>
+      <webElementGuid>959ef6c1-958f-4e8a-a4bc-dce5190c1be9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/div/ul/li[2]/div/ul/li/a/span</value>
-      <webElementGuid>d8adc0b3-713f-48c9-ae0f-e2056e45e50e</webElementGuid>
+      <webElementGuid>be5341ff-6b31-474f-a435-128fd7486e67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'My Attendance' or . = 'My Attendance')]</value>
-      <webElementGuid>a96260ef-baed-46f9-a202-80f45f65b827</webElementGuid>
+      <webElementGuid>b20a43ca-9c4b-4a83-b080-e378e5a6f277</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

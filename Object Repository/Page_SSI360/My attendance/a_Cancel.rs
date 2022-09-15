@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Cancel</name>
    <tag></tag>
-   <elementGuidId>874fe270-23fb-42b1-85db-7587b4d88972</elementGuidId>
+   <elementGuidId>2892c828-b57c-49d0-927e-9ae7897c5cf8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c839d4a1-c17c-4f9a-abef-9a931fb460cb</webElementGuid>
+      <webElementGuid>e6a0e635-3ca9-44f2-8b15-667578c3ed35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>secondaryBtn</value>
-      <webElementGuid>23f6d1d3-517e-4b90-9a66-d3c7d79d4492</webElementGuid>
+      <webElementGuid>0d25d625-ca0f-41e8-bc1f-41320214f78a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>ade4ab6b-bcde-42fc-aeea-8c938ca26bba</webElementGuid>
+      <webElementGuid>103fddc2-54f2-46de-b799-2477b3e8948d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>cancelAction</value>
-      <webElementGuid>2797656c-65b6-4d90-af4b-f93e0e62c407</webElementGuid>
+      <webElementGuid>85db9cc6-1987-437e-a168-0f22d8221826</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Cancel</value>
-      <webElementGuid>462cd1d7-de82-4ea5-a6cc-d4714f0d43c0</webElementGuid>
+      <webElementGuid>16881233-8af7-4f6a-b961-398cf463f842</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>addTimeLogActionEventHandler(event, this,{&quot;Id&quot;:&quot;cancelAction&quot;,&quot;DisplayText&quot;:&quot;Cancel&quot;,&quot;ToolTip&quot;:&quot;Cancel&quot;,&quot;ActionAddress&quot;:{&quot;ActionName&quot;:&quot;GetListView&quot;,&quot;ControllerName&quot;:&quot;EmployeeAttendance&quot;,&quot;AreaName&quot;:&quot;Talent.App.WebUI&quot;,&quot;Parameters&quot;:null,&quot;Url&quot;:&quot;/Talent.App.WebUI/EmployeeAttendance/GetListView&quot;},&quot;IsMainAction&quot;:true,&quot;Status&quot;:1})</value>
-      <webElementGuid>7ffa80ad-5224-440d-9c0e-a02a3b138e92</webElementGuid>
+      <webElementGuid>2e3ff0ee-ce99-406f-8eaa-c438bd4c6c4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Cancel</value>
-      <webElementGuid>2ca845a1-a4db-4436-9632-9bbfbc0a1155</webElementGuid>
+      <webElementGuid>a6a0e326-6549-4999-9ec0-b6d564fdfe3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cancelAction&quot;)</value>
-      <webElementGuid>05894e8b-0f97-413b-9609-d5464f37110e</webElementGuid>
+      <webElementGuid>9fbc703e-2a51-45e9-9459-c01f63901a91</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='cancelAction']</value>
-      <webElementGuid>8551e859-cc27-4345-a495-a3846ea5f235</webElementGuid>
+      <webElementGuid>46066989-64fb-4010-9dde-6fe991d4d528</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='masterContent']/div/div/div/div/div/ul/li[2]/a</value>
-      <webElementGuid>7528452f-2f61-4fa4-a2f0-dfd4003436fd</webElementGuid>
+      <webElementGuid>3ad4ddfb-db27-41fe-8c10-1ef0f890e905</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Cancel')]</value>
-      <webElementGuid>6d368264-1a1a-4e31-8860-ed599af6e396</webElementGuid>
+      <webElementGuid>942eff46-b3c8-4284-8cc1-52ca32797f87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Time Log'])[2]/following::a[2]</value>
-      <webElementGuid>3021f92a-175d-4c9b-bd40-1deea53ac599</webElementGuid>
+      <webElementGuid>f5306e08-8697-4e4d-8c24-536ad90093ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Attendance'])[2]/following::a[2]</value>
-      <webElementGuid>bc5eb64b-2f5c-4530-9112-769004d794e6</webElementGuid>
+      <webElementGuid>46b9c1b3-7bef-456e-be84-c18c91b96f67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Log Approving Person:'])[1]/preceding::a[1]</value>
-      <webElementGuid>54fa2e45-aa37-4ea2-9994-fbb25bef8e14</webElementGuid>
+      <webElementGuid>d165b20f-23d3-4e60-aae0-3a662c6d2c96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rizwan Ul Ahmad Khan'])[1]/preceding::a[1]</value>
-      <webElementGuid>94fa31a4-d61d-4e63-a1da-3b3c5998df8c</webElementGuid>
+      <webElementGuid>66d5ab25-918b-40f6-a7cb-462e59601903</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Cancel']/parent::*</value>
-      <webElementGuid>7f3d8217-4b19-4b9e-8474-52e30de69e93</webElementGuid>
+      <webElementGuid>ac01fbd6-317d-4c3a-833e-33f700904c68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[17]</value>
-      <webElementGuid>2b08ac0a-a78e-4a2a-a1d1-16c146832f29</webElementGuid>
+      <webElementGuid>d551dba7-da55-440d-93e0-f204b0458c71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +158,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div/div/div/ul/li[2]/a</value>
-      <webElementGuid>3ea6948b-014f-4842-9df3-f38f766fa636</webElementGuid>
+      <webElementGuid>75ded55a-32ad-4faa-a15c-10a8ec9ac8fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,6 +166,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and @id = 'cancelAction' and @title = 'Cancel' and (text() = ' Cancel' or . = ' Cancel')]</value>
-      <webElementGuid>1d656189-df35-4756-89bd-8efb0064357c</webElementGuid>
+      <webElementGuid>a81bb314-bbe6-4bb7-bf2a-98984be551e5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
