@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>verify calendar</name>
+   <name>Verify Calendar is Present in Filter</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>bd4e44fd-9402-4352-9362-af3d450ac5a1</testCaseGuid>
