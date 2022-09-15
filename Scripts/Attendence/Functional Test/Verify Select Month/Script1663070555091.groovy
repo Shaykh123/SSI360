@@ -27,37 +27,56 @@ WebUI.callTestCase(findTestCase('Test Cases/Navigations/NT My Attendence listvie
 WebUI.enableSmartWait()
 
 //Verify My Attendence screen objects
-String Heading = 'Object Repository/Page_SSI360/My attendance/h1_My Attendance'
-String OpenSearchDetails = 'Object Repository/Page_SSI360/open_detail_search'
-String hoverCalendarTab = 'Object Repository/Page_SSI360/My attendance/hover tab'
-String StartDateCalendar = 'Object Repository/Page_SSI360/My attendance/div_Start Date_startDate_calendarButton'
-String Select_start_Month = 'Object Repository/Page_SSI360/My attendance/Month_select_JanFebMarAprMayJunJulAugSepOctNovDec'
-String Search_btn = 'Object Repository/Page_SSI360/My attendance/a_Search_filter'
+//String Heading = 'Object Repository/Page_SSI360/My attendance/h1_My Attendance'
+//String OpenSearchDetails = 'Object Repository/Page_SSI360/open_detail_search'
+//String hoverCalendarTab = 'Object Repository/Page_SSI360/My attendance/hover tab'
+//String StartDateCalendar = 'Object Repository/Page_SSI360/My attendance/div_Start Date_startDate_calendarButton'
+//String Select_start_Month = 'Object Repository/Page_SSI360/My attendance/Month_select_JanFebMarAprMayJunJulAugSepOctNovDec'
+//String Search_btn = 'Object Repository/Page_SSI360/My attendance/a_Search_filter'
 
-String Component = 'MY ATTENDANCE'
+//String Component = 'MY ATTENDANCE'
 
-WebUI.verifyElementText(findTestObject(Heading),'MY ATTENDANCE', FailureHandling.STOP_ON_FAILURE)
+//WebUI.verifyElementText(findTestObject(Heading),'MY ATTENDANCE', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.comment('Open Search Box to Enter dates')
-
-WebUI.click(findTestObject(OpenSearchDetails), FailureHandling.STOP_ON_FAILURE)
-
-
-WebUI.verifyElementClickable(findTestObject(hoverCalendarTab), FailureHandling.STOP_ON_FAILURE)
-
-
-WebUI.verifyElementClickable(findTestObject(StartDateCalendar), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject(StartDateCalendar), FailureHandling.STOP_ON_FAILURE)
-
-
-WebUI.click(findTestObject(Select_start_Month), FailureHandling.STOP_ON_FAILURE)
-
+WebUI.comment('verify page heading')
+WebUI.callTestCase(findTestCase('Test Cases/Attendence/Lookups/verify page heading'), [:], FailureHandling.STOP_ON_FAILURE)
 WebUI.enableSmartWait()
 
+//WebUI.comment('Open Search Box to Enter dates')
+
+//WebUI.click(findTestObject(OpenSearchDetails), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.comment('verify search box')
+WebUI.callTestCase(findTestCase('Test Cases/Attendence/Lookups/verify search box is clickable'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.enableSmartWait()
+
+
+//WebUI.verifyElementClickable(findTestObject(hoverCalendarTab), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.comment('verify calendar')
+WebUI.callTestCase(findTestCase('Test Cases/Attendence/Lookups/verify calendar'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.enableSmartWait()
+
+
+//WebUI.verifyElementClickable(findTestObject(StartDateCalendar), FailureHandling.STOP_ON_FAILURE)
+
+//WebUI.click(findTestObject(StartDateCalendar), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.comment('verify start date calendar')
+WebUI.callTestCase(findTestCase('Test Cases/Attendence/Lookups/verify start date calendar'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.enableSmartWait()
+
+
+//WebUI.click(findTestObject(Select_start_Month), FailureHandling.STOP_ON_FAILURE)
+
+//WebUI.enableSmartWait()
+
+WebUI.comment('verify month from dropdown')
+WebUI.callTestCase(findTestCase('Test Cases/Attendence/Lookups/verify select start month from dropdown'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.enableSmartWait()
 
 
 WebUI.comment('Verify Month is save and then verify its saved correctly')
 WebUI.callTestCase(findTestCase('Test Cases/Attendence/Lookups/Select Month'),
-	[('Option'):'Apr'],FailureHandling.STOP_ON_FAILURE)
+	[('Option'):'Feb'],FailureHandling.STOP_ON_FAILURE)
 
