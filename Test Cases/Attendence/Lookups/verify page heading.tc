@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>verify page heading</name>
+   <name>Verify Page Heading</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>3f2aa619-9641-4f82-a39c-3fb6a7d201dc</testCaseGuid>
