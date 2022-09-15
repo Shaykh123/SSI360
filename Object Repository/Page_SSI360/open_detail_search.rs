@@ -3,12 +3,8 @@
    <description></description>
    <name>open_detail_search</name>
    <tag></tag>
-   <elementGuidId>66843a22-e7ac-4a95-92f0-f828cf875b3a</elementGuidId>
+   <elementGuidId>0d1f966a-55dc-44a1-adda-c8b361856869</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>span.ssi-icon-moreArrow</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//a[@id='btnAdvanceFilter']/span</value>
@@ -16,6 +12,10 @@
       <entry>
          <key>BASIC</key>
          <value>id(&quot;btnAdvanceFilter&quot;)/span[@class=&quot;ssi-icon-moreArrow&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ssi-icon-moreArrow</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>a63979fa-e644-4b88-b599-8db21930eb88</webElementGuid>
+      <webElementGuid>0b38b800-b6dc-4f9c-9a88-b5c82f9d9288</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ssi-icon-moreArrow</value>
-      <webElementGuid>5daedc1c-170a-48f8-9721-ef209924244d</webElementGuid>
+      <webElementGuid>3c3cb3f4-2b19-4c84-b4e5-6bc6b6d48ae9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btnAdvanceFilter&quot;)/span[@class=&quot;ssi-icon-moreArrow&quot;]</value>
-      <webElementGuid>882ac70c-5cf1-4e5d-af51-130153245cb6</webElementGuid>
+      <webElementGuid>5103fbe0-38fa-484b-b9c1-589c3ecc4856</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='btnAdvanceFilter']/span</value>
-      <webElementGuid>0822b2f7-49b6-48a9-b085-67bc28bd4c64</webElementGuid>
+      <webElementGuid>da2026ae-566a-4a3c-ac88-3830725d4746</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[1]/following::span[1]</value>
-      <webElementGuid>b98852b4-94fb-40ab-a826-e8a909a7176d</webElementGuid>
+      <webElementGuid>0715c8d7-4f2f-40ce-b81d-073d5734b877</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Validations Runs'])[3]/following::span[3]</value>
-      <webElementGuid>d34b28f8-d0ac-48b9-8132-8f43c275e027</webElementGuid>
+      <webElementGuid>10bafa3c-8731-4460-9474-9ab10c3b8aaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='From Date'])[1]/preceding::span[1]</value>
-      <webElementGuid>a59384d6-c329-473d-a766-ef7ce945b4bc</webElementGuid>
+      <webElementGuid>5dea1b31-9f22-4446-9f50-060c7b3a0be8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[2]/preceding::span[1]</value>
-      <webElementGuid>92aaecd1-1462-4689-bb49-b850c265adcb</webElementGuid>
+      <webElementGuid>7a5889eb-c68b-45b1-94e5-069d04d94cdc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,6 +90,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/ul/li/a/span</value>
-      <webElementGuid>90cf0c86-8555-48ea-8fad-35525eeb87db</webElementGuid>
+      <webElementGuid>0c5ee22e-0cd1-4ee7-8d5a-e499c898e6c2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

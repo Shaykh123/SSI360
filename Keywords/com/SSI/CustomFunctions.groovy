@@ -1,4 +1,4 @@
-package com.SSI
+	package com.SSI
 
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 
@@ -31,40 +31,33 @@ import java.awt.event.KeyEvent
 import org.openqa.selenium.WebElement as WebElement
 import internal.GlobalVariable
 import org.openqa.selenium.By as By
-import org.openqa.selenium.WebDriver as WebDriver
-import org.openqa.selenium.WebElement as WebElement
+//import org.openqa.selenium.WebDriver as WebDriver
+//import org.openqa.selenium.WebElement as WebElement
 import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 import org.openqa.selenium.Point
 import org.openqa.selenium.interactions.Actions
 import java.util.concurrent.TimeUnit;
-import java.util.*;
+//import java.util.*;
 import static org.junit.Assert.*;
 import org.openqa.selenium.support.ui.Select;
-import java.io.*
-
-
+//import java.io.*
 
 public class CustomFunctions {
-
-	/*
-	 @Keyword
-	 def GlobalEnv() {
-	 String SSI360 = 'https://ssi360.ssidecisions.com/Account/LogOn?ReturnUrl=%2F'
-	 String global = GlobalVariable.URL
-	 if(global == SSI360) {
-	 return 'SSI360'
-	 }
-	 else if(global == SSI360) {
-	 return 'SSI360'
-	 }
-	 }
-	 }
-	 */
-
 	@Keyword
-	def ClickbyText(text) {
-		WebDriver driver = DriverFactory.getWebDriver()
-		WebElement ele = driver.findElement(By.xpath('//*[@id="ui-datepicker-div"]/div/div/select[1], "' + text + '")]'))
-		ele.click()
+	def ClickbyText() {
+		WebDriver driver =  DriverFactory.getWebDriver()
+		Select se = new Select(driver.findElement(By.xpath('//*[@id="ui-datepicker-div"]/div/div/select[1]"')));
+
+		// Select the option by index
+		se.selectByIndex(3);
 	}
 }
+
+
+/*
+ * def ClickbyText() {
+ WebDriver driver = DriverFactory.getWebDriver()
+ WebElement ele = driver.findElement(By.id('//*[@id="ui-datepicker-div"]/div/div/select[1], "' + text + '")]'))
+ ele.click();
+ }
+ */

@@ -1,26 +1,12 @@
 {
-  "keywordFileContentHash": "5C7F308F5A4063F3AA198692DC265FC9",
+  "keywordFileContentHash": "3552EFA517C722FC87DBC4D45CBDE9CD",
   "keywordClasses": [
     {
       "name": "com.SSI.CustomFunctions",
       "keywordMethods": [
         {
           "name": "ClickbyText",
-          "parameters": [
-            {
-              "name": "text",
-              "initialExpression": "",
-              "type": {
-                "fullClassName": "java.lang.Object",
-                "unresolvedClassName": "java.lang.Object",
-                "isArray": false,
-                "isGnericsPlaceHolder": false,
-                "hasImmutableClassName": true,
-                "genericsTypes": [],
-                "errorOnParsing": false
-              }
-            }
-          ],
+          "parameters": [],
           "javadoc": ""
         }
       ]

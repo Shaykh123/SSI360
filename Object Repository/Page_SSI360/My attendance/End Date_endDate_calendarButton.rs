@@ -3,15 +3,15 @@
    <description></description>
    <name>End Date_endDate_calendarButton</name>
    <tag></tag>
-   <elementGuidId>c2587bef-8e5e-4eac-ba46-808d101fd225</elementGuidId>
+   <elementGuidId>8d016195-649e-4eff-b060-fa19248cb324</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#endDate_calendarButton</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='endDate_calendarButton']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#endDate_calendarButton</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>dc66873c-80ab-4c09-8abe-7aa171e4c0cc</webElementGuid>
+      <webElementGuid>8a719386-0ad8-473e-a2a7-894e9f889629</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>cc041f0f-f7a2-4b18-8f5c-c322a8437540</webElementGuid>
+      <webElementGuid>eb557e0b-ec84-4b18-8d97-87de8f91abcf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>4dae61e3-809a-4607-b98c-2c33d404df4a</webElementGuid>
+      <webElementGuid>2b6fc505-7b7a-4ca1-b7a3-718dd2cd8c5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>endDate_calendarButton</value>
-      <webElementGuid>41472d24-021c-4de3-8080-997f6788158a</webElementGuid>
+      <webElementGuid>13a6fd8e-0c49-4351-a6b0-fb3d0d97dde4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Calendar</value>
-      <webElementGuid>95bc1792-7158-4f7e-b028-d748c480154a</webElementGuid>
+      <webElementGuid>001b2cd4-2a86-405f-a062-ef3520d637b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-igedit-button-common ui-unselectable ui-igedit-button-ltr ui-state-default ui-igedit-dropdown-button ui-igedit-buttonhover ui-state-hover</value>
-      <webElementGuid>18b78fec-a419-45ec-a71a-27dfdcdf0484</webElementGuid>
+      <webElementGuid>c02a4326-667b-49f9-acc4-4dc829ba4962</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Show calendar</value>
-      <webElementGuid>6fc89daa-572c-4cfc-bc0c-a93047789dbf</webElementGuid>
+      <webElementGuid>3d00a6e1-6d0b-4a82-a3dd-d888e9eb5cde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;endDate_calendarButton&quot;)</value>
-      <webElementGuid>d5fca02e-f7ca-4b9c-b37a-ec57186ce491</webElementGuid>
+      <webElementGuid>57708344-1b2f-4f86-92d5-bcafe0268d13</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='endDate_calendarButton']</value>
-      <webElementGuid>4b7b43a4-c9bf-4cba-87d2-46d0fc7ac12a</webElementGuid>
+      <webElementGuid>1ddaf6bb-9262-4e5c-b9db-a9d24f888676</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='myTimeLogFilter']/div[2]/div/div/div/div</value>
-      <webElementGuid>c612752d-01a7-4568-b9d5-0a972fddcd3a</webElementGuid>
+      <webElementGuid>1a0348b7-3ef6-4e52-ba44-1e296406f9ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='End Date'])[1]/following::div[4]</value>
-      <webElementGuid>b8bf6c1d-09a2-4d80-9b67-51c31a410769</webElementGuid>
+      <webElementGuid>9eaf1581-e8d6-467c-8b2e-b8a8e7c8bac2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[2]/following::div[5]</value>
-      <webElementGuid>415570db-1a1d-42e2-a5e4-e6e5af85def0</webElementGuid>
+      <webElementGuid>fb7c6817-4859-4954-8e4b-4e1e736b4360</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[3]/preceding::div[3]</value>
-      <webElementGuid>18fb6fce-ebf9-4510-97a3-dc21d215573d</webElementGuid>
+      <webElementGuid>e30cd93c-2150-49db-b993-536c0e136119</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Type'])[1]/preceding::div[5]</value>
-      <webElementGuid>57a2ca4f-abc7-4241-9b44-d3b7acd3b04b</webElementGuid>
+      <webElementGuid>2ba9f878-2202-4b01-8ccf-93d2773d7ee3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/div/div/div/div[2]/div/div/div/div</value>
-      <webElementGuid>d1265976-bfff-4bb4-879a-6ef261e5ceac</webElementGuid>
+      <webElementGuid>84079855-887e-4c88-853a-61f30c0d63e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'endDate_calendarButton' and @title = 'Show calendar']</value>
-      <webElementGuid>ed771684-d7aa-4210-ac7e-1843fffa0be5</webElementGuid>
+      <webElementGuid>21391949-f596-4196-a7fd-38bfb9d283fb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

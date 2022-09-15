@@ -3,15 +3,15 @@
    <description></description>
    <name>EndDate_year_select_201220132014201520162017201820192020202120222023202420252026202720282029203020312032</name>
    <tag></tag>
-   <elementGuidId>7fa214be-0515-437d-ab51-aaacc7dd6bfe</elementGuidId>
+   <elementGuidId>a3297589-48a4-496c-82a4-c7f830c4c688</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>select.ui-datepicker-year</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='ui-datepicker-div']/div/div/select[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.ui-datepicker-year</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>d1ef77f3-f9fc-44e6-91ed-a7532a17c21a</webElementGuid>
+      <webElementGuid>c4b172e6-0162-43bf-9fcb-a669268b6fd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-datepicker-year</value>
-      <webElementGuid>02d9d4d6-8ddf-4b5c-9f9e-0197066053d4</webElementGuid>
+      <webElementGuid>bd4a5268-edca-4fed-8562-3ec43b221b74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-handler</name>
       <type>Main</type>
       <value>selectYear</value>
-      <webElementGuid>6a3f3267-304b-4eea-b6c9-81076c24d71e</webElementGuid>
+      <webElementGuid>59892887-c35e-4bc9-bb29-6ee054505816</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-event</name>
       <type>Main</type>
       <value>change</value>
-      <webElementGuid>ed885f55-b828-4589-9f51-ca9036a4edfa</webElementGuid>
+      <webElementGuid>35b628ea-d8f8-40fb-8616-a1fec599975d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>201220132014201520162017201820192020202120222023202420252026202720282029203020312032</value>
-      <webElementGuid>9e5b3582-4b23-47ca-89d6-2d81125d5fec</webElementGuid>
+      <webElementGuid>da11c25c-911e-404f-903f-ca511632a6e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ui-datepicker-div&quot;)/div[@class=&quot;ui-datepicker-header ui-widget-header ui-helper-clearfix ui-corner-all&quot;]/div[@class=&quot;ui-datepicker-title&quot;]/select[@class=&quot;ui-datepicker-year&quot;]</value>
-      <webElementGuid>c8faecb8-8e98-4dd1-9ee3-3239c130e63b</webElementGuid>
+      <webElementGuid>d0e032f9-2781-41a2-a9f2-353dfb3b79c5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ui-datepicker-div']/div/div/select[2]</value>
-      <webElementGuid>41ad575d-873c-4f76-b2f6-e21b3f5a0166</webElementGuid>
+      <webElementGuid>6dcb39de-8757-4d65-b9b3-495c044ae109</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[2]/following::select[2]</value>
-      <webElementGuid>c606c8f4-9911-4c32-b802-cdf878897b88</webElementGuid>
+      <webElementGuid>765ea4b0-125c-4991-a49c-005f570ee7c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prev'])[2]/following::select[2]</value>
-      <webElementGuid>3c00e07f-3207-4dd0-a613-fd21153437a0</webElementGuid>
+      <webElementGuid>6ec6283e-f0f0-463a-b588-f4413c5590a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/preceding::select[1]</value>
-      <webElementGuid>1032b6af-efa2-4457-a0ab-d2d4248f50a3</webElementGuid>
+      <webElementGuid>6870c2df-30aa-4979-bdea-9068a9b64b9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mo'])[1]/preceding::select[1]</value>
-      <webElementGuid>1fcd896d-1ce0-4951-80ce-6504f83db68b</webElementGuid>
+      <webElementGuid>0625f750-e6c1-4984-abb2-15ef1c05746d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select[2]</value>
-      <webElementGuid>064ec73d-1358-4050-9b68-b492a082b44e</webElementGuid>
+      <webElementGuid>53749be6-6059-4c46-b444-4af7c2616e85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[(text() = '201220132014201520162017201820192020202120222023202420252026202720282029203020312032' or . = '201220132014201520162017201820192020202120222023202420252026202720282029203020312032')]</value>
-      <webElementGuid>d6661782-2547-40a1-9db7-f85f0c233a70</webElementGuid>
+      <webElementGuid>52429d7f-6e21-478f-b9ed-0f1144f20c8a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

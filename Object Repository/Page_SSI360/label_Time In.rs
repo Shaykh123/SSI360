@@ -3,7 +3,7 @@
    <description></description>
    <name>label_Time In</name>
    <tag></tag>
-   <elementGuidId>01b086a3-bff7-428a-8ec3-10bd208d1c59</elementGuidId>
+   <elementGuidId>0196be1a-380a-4f09-accd-b0dfc7277a3a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>dde8accf-63e0-448e-a953-f347c075b439</webElementGuid>
+      <webElementGuid>50834b23-75ec-4bfa-be72-43c31331e747</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>control-label</value>
-      <webElementGuid>3872bf95-aee9-433b-944e-44781a8e7673</webElementGuid>
+      <webElementGuid>ce120638-f274-4a3a-be87-495755bd70d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Time In*</value>
-      <webElementGuid>b0a0e370-659f-4b78-90a5-9c1499417c3a</webElementGuid>
+      <webElementGuid>1c53d44a-e0ac-485d-b8cf-d79104e26b96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;log1&quot;)/div[@class=&quot;detail-holder&quot;]/div[@class=&quot;control-holder&quot;]/label[@class=&quot;control-label&quot;]</value>
-      <webElementGuid>3b83748f-8327-4bf5-8d53-0982b9ae1b3a</webElementGuid>
+      <webElementGuid>991a5bed-57fc-460b-9d72-eee4e24e28f9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='log1']/div[2]/div/label</value>
-      <webElementGuid>c433f2fc-8bc6-4aa2-b595-fe36d07055d4</webElementGuid>
+      <webElementGuid>eb06e52e-fbd3-406e-b166-a979741f4c2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Thursday, Sep-01-2022'])[1]/following::label[2]</value>
-      <webElementGuid>234a60a3-0114-4f77-9c04-a038e88ac4a3</webElementGuid>
+      <webElementGuid>eb7f2ca3-0153-47e2-84e4-4433f1051b76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Time In']/parent::*</value>
-      <webElementGuid>3f277f32-9455-42c6-8c97-7cb51dc3da15</webElementGuid>
+      <webElementGuid>6a161f30-f4dd-4304-b866-257467d296ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/label</value>
-      <webElementGuid>87357afa-c1c1-4e30-b040-46f0420c5a91</webElementGuid>
+      <webElementGuid>e59b7c08-56a5-494c-be50-9c0ed9eb68bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Time In*' or . = 'Time In*')]</value>
-      <webElementGuid>c9213f9c-40e8-45ac-8fd9-f713aaad658a</webElementGuid>
+      <webElementGuid>52276bfe-38e2-4cc1-8c57-c1fd36f6c0af</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

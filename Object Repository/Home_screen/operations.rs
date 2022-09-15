@@ -3,19 +3,19 @@
    <description></description>
    <name>operations</name>
    <tag></tag>
-   <elementGuidId>74262728-b317-4e53-8a1c-6e98416cb4c9</elementGuidId>
+   <elementGuidId>f3270bfa-a27d-4680-8f90-25b61bc3c2b9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='slidemenu']/ul/li[2]/a/span/span</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>span.icon.icon-operations</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>id(&quot;slidemenu&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;root-menu has-drop active&quot;]/a[@class=&quot;top-menu-icon&quot;]/span[@class=&quot;icon-holder&quot;]/span[@class=&quot;icon icon-operations&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon.icon-operations</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>fabe7b54-cb60-458b-be7f-9e744319e111</webElementGuid>
+      <webElementGuid>3fe48466-53b4-40d3-8849-a2fe4afa0b4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>icon icon-operations</value>
-      <webElementGuid>6616044d-a2af-467f-8bf0-e80c1db54996</webElementGuid>
+      <webElementGuid>312e8b97-04ad-4a36-ba2e-d9d9e7bdcbe2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;slidemenu&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;root-menu has-drop active&quot;]/a[@class=&quot;top-menu-icon&quot;]/span[@class=&quot;icon-holder&quot;]/span[@class=&quot;icon icon-operations&quot;]</value>
-      <webElementGuid>33c4f02c-6782-438f-8cd2-68994159c810</webElementGuid>
+      <webElementGuid>2dae17a9-4a70-4634-808e-79ad8e0b39da</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='slidemenu']/ul/li[2]/a/span/span</value>
-      <webElementGuid>f2adee04-5e1b-47bd-a6ae-3e7f9d86f255</webElementGuid>
+      <webElementGuid>ecc3e7fc-d547-4631-a2b8-8328dfd10656</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -58,6 +58,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/ul/li[2]/a/span/span</value>
-      <webElementGuid>e20bbdf0-d57f-462c-ad22-d7b06319f8e2</webElementGuid>
+      <webElementGuid>e54ca03f-362b-4bcd-ae49-b3a340f74a8c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

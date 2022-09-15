@@ -4,17 +4,17 @@
    <name>Click by Text</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>79174cde-a5a3-4b59-855d-0100b73b8935</testCaseGuid>
+   <testCaseGuid>b7a8d74a-4db5-42ef-ac24-55708a14fc95</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>aa718675-a0a0-4aea-866f-277d9dc42a13</variableId>
+      <variableId>af674b32-a732-4f99-9738-dfb50e431f67</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>aa718675-a0a0-4aea-866f-277d9dc42a13</id>
+      <id>af674b32-a732-4f99-9738-dfb50e431f67</id>
       <masked>false</masked>
       <name>Text</name>
    </variable>

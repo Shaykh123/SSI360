@@ -3,15 +3,14 @@
    <description></description>
    <name>label_Password</name>
    <tag></tag>
-   <elementGuidId>4b26eb59-f6ff-4988-9312-1c2e7caa8b03</elementGuidId>
+   <elementGuidId>44061c26-47f9-4249-b048-a99537ee989b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='loginContainer']/form/div[3]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>3ee67670-cda1-46c3-9639-cbdba71e5984</webElementGuid>
+      <webElementGuid>3b1abf29-d12c-42df-9112-b4ef9f31ddbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>control-label</value>
-      <webElementGuid>cd01759c-4cb4-40c6-9584-a9c3441cdddd</webElementGuid>
+      <webElementGuid>5b6bcc1c-9b65-4056-8902-6f842c8f58da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Password</value>
-      <webElementGuid>a609ac8d-74c2-4042-aafa-75371457d346</webElementGuid>
+      <webElementGuid>d2228ad9-3860-456c-8954-c42e0cca2087</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;loginContainer&quot;)/form[@class=&quot;ng-pristine ng-valid&quot;]/div[@class=&quot;input-holder&quot;]/label[@class=&quot;control-label&quot;]</value>
-      <webElementGuid>6c881986-d55a-4f07-b27a-518bebb54653</webElementGuid>
+      <webElementGuid>e868f0d0-ffda-4f23-bd63-7d9da24c9a70</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='loginContainer']/form/div[3]/label</value>
-      <webElementGuid>6cfeead1-74d5-47c6-ab5f-c53f37ed0daf</webElementGuid>
+      <webElementGuid>2e7ac204-f49a-41d5-843b-9ac121801c9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::label[1]</value>
-      <webElementGuid>e247224c-ae57-4965-b310-57edb00fb065</webElementGuid>
+      <webElementGuid>8fee9876-57e6-4afd-a6a0-aca5d0e29f75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SSI 360'])[1]/following::label[2]</value>
-      <webElementGuid>2f256d75-8b48-438b-b1e4-74d126cf6999</webElementGuid>
+      <webElementGuid>7ff37de8-e4c6-4ac2-ad17-9cdf0d28f6f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter email address to recover your password'])[1]/preceding::label[1]</value>
-      <webElementGuid>f595f0b9-1356-493b-aa58-92c960538c56</webElementGuid>
+      <webElementGuid>d09d4347-5a88-43a1-bb9d-9d5a0ee6d26a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::label[1]</value>
-      <webElementGuid>0208b698-6c9e-47fc-ae01-bcadaa04a6d7</webElementGuid>
+      <webElementGuid>5ae9760c-3786-40f1-960f-afd4b7979196</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Password']/parent::*</value>
-      <webElementGuid>fdd1908f-705b-4548-a61b-3a70aa517dee</webElementGuid>
+      <webElementGuid>d217a221-bd27-4785-915e-95c6f27ec082</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/label</value>
-      <webElementGuid>153fe1b8-e132-48be-bbba-f2cb07497a47</webElementGuid>
+      <webElementGuid>9bb05246-215f-47d7-8089-e8a25337899d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Password' or . = 'Password')]</value>
-      <webElementGuid>47e72180-48e8-40c6-89ee-eb3a774b6b74</webElementGuid>
+      <webElementGuid>88509155-ee33-404d-9742-acd036efe83e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,21 +3,21 @@
    <description></description>
    <name>h1_My Attendance</name>
    <tag></tag>
-   <elementGuidId>d0e68517-2385-4307-9f28-b56856e0cbc9</elementGuidId>
+   <elementGuidId>18280a35-0727-4a04-8854-3ef860fbecfe</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='page-content']/div/div/div/h1</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>h1</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[(text() = 'MY ATTENDANCE
 ' or . = 'MY ATTENDANCE
 ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>3e4a573a-0c58-4819-a4fa-a688ed90c93f</webElementGuid>
+      <webElementGuid>6555b80b-7f6f-4f1c-8159-93782719d8fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <type>Main</type>
       <value>MY ATTENDANCE
 </value>
-      <webElementGuid>3f173dbf-7fd9-494b-a2c2-e42e87961428</webElementGuid>
+      <webElementGuid>642451cd-cd02-498c-add3-acfeee7fc75c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;page-content&quot;)/div[@class=&quot;ssi-Main home col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;header&quot;]/h1[1]</value>
-      <webElementGuid>38b34de2-3014-4a82-a2d5-38756ee2fbb0</webElementGuid>
+      <webElementGuid>c788da6f-74e5-4565-a11f-00a9e79a1123</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='page-content']/div/div/div/h1</value>
-      <webElementGuid>51aaf9a3-c4c8-43e4-918a-f744fb50530e</webElementGuid>
+      <webElementGuid>00d4b45e-1342-4f12-8423-637656523c46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Attendance'])[2]/following::h1[1]</value>
-      <webElementGuid>45d494c9-2146-48ab-af33-70c46deae1b7</webElementGuid>
+      <webElementGuid>cf985328-4979-42b6-b2e8-faf370ea1636</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/following::h1[1]</value>
-      <webElementGuid>8bee6cd4-b4f1-4047-bed4-b95555d55d60</webElementGuid>
+      <webElementGuid>14fe56b5-9497-4154-8400-4ca352536b5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[1]/preceding::h1[1]</value>
-      <webElementGuid>14fb7191-dd90-4d30-a442-ae8c294fd951</webElementGuid>
+      <webElementGuid>7b65a2cc-1f45-4e71-b028-84cecf26ce63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/preceding::h1[1]</value>
-      <webElementGuid>9d632602-a75e-48bd-9072-689083a990cd</webElementGuid>
+      <webElementGuid>c7d7ecf2-72c9-4196-8c88-f8c19f188153</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h1</value>
-      <webElementGuid>a6b71bea-fe41-408a-bd63-a2df7a289d65</webElementGuid>
+      <webElementGuid>d43a53bc-88b1-4194-a8df-b98e01659ca4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'MY ATTENDANCE' or . = 'MY ATTENDANCE')]</value>
-      <webElementGuid>0850907b-b5b8-4040-ab00-00b33ca7e1d1</webElementGuid>
+      <webElementGuid>cc354a8f-c5a6-4ed3-adb5-29609d4d6f10</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

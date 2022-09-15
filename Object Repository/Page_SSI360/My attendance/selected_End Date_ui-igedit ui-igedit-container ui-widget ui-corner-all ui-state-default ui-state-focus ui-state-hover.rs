@@ -3,15 +3,15 @@
    <description></description>
    <name>selected_End Date_ui-igedit ui-igedit-container ui-widget ui-corner-all ui-state-default ui-state-focus ui-state-hover</name>
    <tag></tag>
-   <elementGuidId>8f103338-361b-47c5-9c8c-affa576a10f3</elementGuidId>
+   <elementGuidId>23742542-0568-44b4-9315-b823ed9bea66</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>div.ui-igedit.ui-igedit-container.ui-widget.ui-corner-all.ui-state-default.ui-state-focus.ui-state-hover</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='myTimeLogFilter']/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-igedit.ui-igedit-container.ui-widget.ui-corner-all.ui-state-default.ui-state-focus.ui-state-hover</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>0f2fb725-a920-4d99-8b8b-e72142b84991</webElementGuid>
+      <webElementGuid>52fb0fc4-bf89-42a4-ae20-7fc7f2c0f590</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-igedit ui-igedit-container ui-widget ui-corner-all ui-state-default ui-state-focus ui-state-hover</value>
-      <webElementGuid>aa88afed-cbce-44fd-ac4f-3917f6fd31e2</webElementGuid>
+      <webElementGuid>6c0cbc62-89fa-44ca-8ffa-a4f01fc6353e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;myTimeLogFilter&quot;)/div[@class=&quot;col-lg-6 col-md-12 col-sm-12 col-xs-12 form-group&quot;]/div[1]/div[@class=&quot;ssi-time-picker&quot;]/div[@class=&quot;ui-igedit ui-igedit-container ui-widget ui-corner-all ui-state-default ui-state-focus ui-state-hover&quot;]</value>
-      <webElementGuid>d9e2dc8c-6e70-44ac-a418-b58f15f3c5ba</webElementGuid>
+      <webElementGuid>f95605d6-ce8f-4968-a771-3830808eb8f1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='myTimeLogFilter']/div[2]/div/div/div</value>
-      <webElementGuid>f5a6f5f5-a550-4d46-8d70-b7fe02df810a</webElementGuid>
+      <webElementGuid>0a19f091-4167-4ace-a805-d795e0cf65ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='End Date'])[1]/following::div[3]</value>
-      <webElementGuid>13742abc-cdc9-4a0e-a2da-8474ce17d016</webElementGuid>
+      <webElementGuid>71a11753-ade4-4fcb-9459-fd2657b09b7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[2]/following::div[4]</value>
-      <webElementGuid>a746d059-7738-48b2-aef4-e6c8d4935245</webElementGuid>
+      <webElementGuid>0f8f6968-0254-41b4-bb0d-f12729c90860</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[3]/preceding::div[4]</value>
-      <webElementGuid>3c16f661-41b8-40f3-8536-9afdd0f9690a</webElementGuid>
+      <webElementGuid>ca995359-e193-4612-9a13-d911d446150c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Type'])[1]/preceding::div[6]</value>
-      <webElementGuid>9bea79c9-2db9-49c9-b1fa-75118455f68e</webElementGuid>
+      <webElementGuid>f4ac259e-dd4e-4c95-a77c-a7515e8e7ee7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/div/div/div/div[2]/div/div/div</value>
-      <webElementGuid>6f9bdd8c-1d09-4901-b9c6-bcff5e042a67</webElementGuid>
+      <webElementGuid>ad1e9730-2803-44bc-b171-804a83c42af4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

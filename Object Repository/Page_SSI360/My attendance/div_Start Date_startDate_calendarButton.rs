@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Start Date_startDate_calendarButton</name>
+   <name>div_Start Date_startDate_calendarButton</name>
    <tag></tag>
-   <elementGuidId>c2baff09-9688-4c45-9aea-d15a1bc4e00e</elementGuidId>
+   <elementGuidId>b4403d84-8f1b-4c38-ad16-9e594c510ae1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='startDate_calendarButton']</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@id=&quot;ui-datepicker-div&quot;]/table[count(. | //*[@id = 'startDate_calendarButton' and @class = 'ui-igedit-button-common ui-unselectable ui-igedit-button-ltr ui-state-default ui-igedit-dropdown-button ui-igedit-buttonhover ui-state-hover']) = count(//*[@id = 'startDate_calendarButton' and @class = 'ui-igedit-button-common ui-unselectable ui-igedit-button-ltr ui-state-default ui-igedit-dropdown-button ui-igedit-buttonhover ui-state-hover'])]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#startDate_calendarButton</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -26,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>f1653a49-ea45-4894-b7ad-aa4b58b59d99</webElementGuid>
+      <webElementGuid>fb22fdab-e015-427e-b569-d05db6fb13b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ba29b8d3-5127-4b14-b03a-59adad58ff6e</webElementGuid>
+      <webElementGuid>c8a21190-da84-4cbb-88fa-85cf8c7be593</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>d083442d-3c93-4342-9590-0331838f7aeb</webElementGuid>
+      <webElementGuid>7e42e137-995d-401c-987c-387965a78d2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>startDate_calendarButton</value>
-      <webElementGuid>4b75f677-7367-4ed6-8ed1-bcf81ecbd45d</webElementGuid>
+      <webElementGuid>4f444fa4-835a-455e-b9c3-b1cbe13cfa27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,31 +54,31 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Calendar</value>
-      <webElementGuid>13d68962-9b98-4920-b2e7-e049abfcf16e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>ui-igedit-button-common ui-unselectable ui-igedit-button-ltr ui-state-default ui-igedit-dropdown-button ui-igedit-buttonhover ui-state-hover</value>
-      <webElementGuid>f90db2a8-699e-4e17-bb3c-d01767cde303</webElementGuid>
+      <webElementGuid>e0ede79e-761f-4aa7-8822-d208bd296723</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>title</name>
+      <name>class</name>
       <type>Main</type>
-      <value>Show calendar</value>
-      <webElementGuid>4565b4e5-a06a-4783-9015-8729c43a7b0d</webElementGuid>
+      <value>ui-igedit-button-common ui-unselectable ui-igedit-button-ltr ui-state-default ui-igedit-dropdown-button ui-igedit-buttonhover ui-state-hover</value>
+      <webElementGuid>7fb574f5-bddd-49e3-8913-c0793c22da2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Show calendar</value>
+      <webElementGuid>5b0832f4-7365-4c23-9668-6a354a9a3779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id=&quot;ui-datepicker-div&quot;]/table</value>
-      <webElementGuid>25222d24-fa5a-46f1-8fd0-c9f6385fd05a</webElementGuid>
+      <value>id(&quot;startDate_calendarButton&quot;)</value>
+      <webElementGuid>fa05faa2-3a5a-4aa3-8394-48df05f1e8ad</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -90,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='startDate_calendarButton']</value>
-      <webElementGuid>e59fc7ae-56c2-476a-83e8-b1afa5912871</webElementGuid>
+      <webElementGuid>e59b4aed-cf3a-401b-b2c7-c8199fabdc51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='myTimeLogFilter']/div/div/div/div/div</value>
-      <webElementGuid>6b64fa18-b3c4-44c1-b94c-af030d5fe95d</webElementGuid>
+      <webElementGuid>249c6661-611a-41c9-85bd-d3a7412a3ad0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/following::div[4]</value>
-      <webElementGuid>462eaf33-f1dd-4048-be6f-8e8eec869f2e</webElementGuid>
+      <webElementGuid>a30f4ed4-723d-41e3-b5aa-640dffaa4aaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[1]/following::div[9]</value>
-      <webElementGuid>53dae49d-b33a-42dc-bec3-ba81bc4faba7</webElementGuid>
+      <webElementGuid>a81a3384-98c0-40ec-806b-64c754349ce4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[2]/preceding::div[3]</value>
-      <webElementGuid>9c0f5b3e-caa4-4b60-b6df-548dbd565f9c</webElementGuid>
+      <webElementGuid>4be8d75f-5783-4ec8-a13a-8701360baa42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='End Date'])[1]/preceding::div[5]</value>
-      <webElementGuid>571add3e-b5a2-4c42-828b-54d916c860d5</webElementGuid>
+      <webElementGuid>9c8f2e77-a9be-48a3-86ee-d7e82933cb79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/div/div/div/div/div/div/div/div</value>
-      <webElementGuid>bfca2e1d-9a90-4c41-ad58-35ca84cdf408</webElementGuid>
+      <webElementGuid>ba567d1d-7fe2-43ed-bc65-b05bdce8efed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -146,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'startDate_calendarButton' and @title = 'Show calendar']</value>
-      <webElementGuid>ed5069b6-1fe9-4f49-9e5b-83b961fdf046</webElementGuid>
+      <webElementGuid>702431f4-483a-4491-97b0-32d1ab12ee57</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
