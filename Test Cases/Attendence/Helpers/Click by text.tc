@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Verify select start month from dropdown</name>
+   <name>Click by text</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>18addc73-1491-4020-8a10-854d24753459</testCaseGuid>
+   <testCaseGuid>2b59a5dd-918f-4931-ab83-5eec4d3ed75b</testCaseGuid>
 </TestCaseEntity>

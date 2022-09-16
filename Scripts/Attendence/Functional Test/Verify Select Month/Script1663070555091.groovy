@@ -48,11 +48,13 @@ WebUI.enableSmartWait()
 
 
 WebUI.comment('Verify month from dropdown')
-WebUI.callTestCase(findTestCase('Test Cases/Attendence/Lookups/verify select start month from dropdown'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Test Cases/Attendence/Lookups/Verify select start month from dropdown'), [:], FailureHandling.STOP_ON_FAILURE)
 WebUI.enableSmartWait()
 
 
+// verify entered month is selected correctly
 WebUI.comment('Verify Month is save and then verify its saved correctly')
 WebUI.callTestCase(findTestCase('Test Cases/Attendence/Lookups/Select Month'),
-	[('Option'):'Feb'],FailureHandling.STOP_ON_FAILURE)
+	[('Option'):'Oct'],FailureHandling.STOP_ON_FAILURE)
+
 
