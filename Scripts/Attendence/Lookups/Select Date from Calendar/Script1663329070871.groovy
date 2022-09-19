@@ -17,14 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+String Select_Date_from_calendar = 'Object Repository/Page_SSI360/My attendance/a_5 Oct'
 
 
-String StartDateCalendar = 'Object Repository/Page_SSI360/My attendance/div_Start Date_startDate_calendarButton'
+WebUI.verifyElementClickable(findTestObject(Select_Date_from_calendar), FailureHandling.STOP_ON_FAILURE)
 
-
-WebUI.verifyElementClickable(findTestObject(StartDateCalendar), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject(StartDateCalendar), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject(Select_Date_from_calendar), FailureHandling.STOP_ON_FAILURE)
 WebUI.enableSmartWait()
-
 

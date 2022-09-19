@@ -17,6 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+
 // Pre-Cond itions
 WebUI.callTestCase(findTestCase('Test Cases/Login/Login_ssi360/Login SSI360'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -47,14 +48,25 @@ WebUI.callTestCase(findTestCase('Test Cases/Attendence/Lookups/Open Calendar'), 
 WebUI.enableSmartWait()
 
 
+
 WebUI.comment('Verify month from dropdown')
 WebUI.callTestCase(findTestCase('Test Cases/Attendence/Lookups/Verify select start month from dropdown'), [:], FailureHandling.STOP_ON_FAILURE)
 WebUI.enableSmartWait()
 
 
-// verify entered month is selected correctly
-WebUI.comment('Verify Month is save and then verify its saved correctly')
+// verify month is selected correctly
+WebUI.comment('Verify Month selected correctly')
 WebUI.callTestCase(findTestCase('Test Cases/Attendence/Lookups/Select Month'),
-	[('Option'):'Oct'],FailureHandling.STOP_ON_FAILURE)
+	[('Option'):'Mar'],FailureHandling.STOP_ON_FAILURE)
 
+
+
+//WebUI.comment('Verify date selected from calendar')
+//WebUI.callTestCase(findTestCase('Test Cases/Attendence/Lookups/Select Date from calendar'), [:], FailureHandling.STOP_ON_FAILURE)
+//WebUI.enableSmartWait()
+//
+//
+//WebUI.comment('Click on search button')
+//WebUI.callTestCase(findTestCase('Test Cases/Attendence/Lookups/Click on Search button'), [:], FailureHandling.STOP_ON_FAILURE)
+//WebUI.enableSmartWait()
 
