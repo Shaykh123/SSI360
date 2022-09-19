@@ -1,15 +1,10 @@
 {
-  "keywordFileContentHash": "032D01DF597B9BF6A03D3541E49DE63F",
+  "keywordFileContentHash": "71B2DD30CCC4CDC5D912E0D490BCC030",
   "keywordClasses": [
     {
       "name": "com.SSI.CustomFunctions",
-      "keywordMethods": [
-        {
-          "name": "ClickbyText",
-          "parameters": []
-        }
-      ]
+      "keywordMethods": []
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }
